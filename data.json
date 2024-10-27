@@ -1,0 +1,582 @@
+[
+    {
+        "question": "What is the purpose of the CSS box model?",
+        "options": [
+            "To define the layout of a web page",
+            "To specify the HTML element structure",
+            "To add animations to elements",
+            "To handle browser compatibility"
+        ],
+        "correctAnswer": "To define the layout of a web page"
+    },
+    {
+        "question": "Which CSS property controls the text size?",
+        "options": [
+            "font-style",
+            "text-align",
+            "font-size",
+            "text-transform"
+        ],
+        "correctAnswer": "font-size"
+    },
+    {
+        "question": "In JavaScript, which symbol is used for comments?",
+        "options": [
+            "// for single-line, /* for multi-line",
+            "/* for single-line, // for multi-line",
+            "# for single-line, /* for multi-line",
+            "-- for single-line, /* for multi-line"
+        ],
+        "correctAnswer": "// for single-line, /* for multi-line"
+    },
+    {
+        "question": "What is React primarily used for?",
+        "options": [
+            "Building mobile applications",
+            "Styling web pages",
+            "Handling API requests",
+            "Building user interfaces"
+        ],
+        "correctAnswer": "Building user interfaces"
+    },
+    {
+        "question": "Which HTML tag is used to define an internal style sheet?",
+        "options": [
+            "<css>",
+            "<style>",
+            "<script>",
+            "<link>"
+        ],
+        "correctAnswer": "<style>"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "Hyper Text Markup Language",
+            "Hyperlinks and Text Markup Language",
+            "Home Tool Markup Language",
+            "Hyperlinking Text Marking Language"
+        ],
+        "correctAnswer": "Hyper Text Markup Language"
+    },
+    {
+        "question": "Which of the following is not a JavaScript data type?",
+        "options": [
+            "Undefined",
+            "Boolean",
+            "Float",
+            "String"
+        ],
+        "correctAnswer": "Float"
+    },
+    {
+        "question": "Which HTML attribute specifies an alternate text for an image if the image cannot be displayed?",
+        "options": [
+            "title",
+            "src",
+            "alt",
+            "longdesc"
+        ],
+        "correctAnswer": "alt"
+    },
+    {
+        "question": "How do you add a comment in HTML?",
+        "options": [
+            "<!-- This is a comment -->",
+            "// This is a comment",
+            "# This is a comment",
+            "/* This is a comment */"
+        ],
+        "correctAnswer": "<!-- This is a comment -->"
+    },
+    {
+        "question": "Which HTML element is used to define a footer for a document or section?",
+        "options": [
+            "<footer>",
+            "<section>",
+            "<bottom>",
+            "<div>"
+        ],
+        "correctAnswer": "<footer>"
+    },
+    {
+        "question": "Which JavaScript method is used to find the HTML element by ID?",
+        "options": [
+            "getElementById",
+            "getElementByClassName",
+            "getElementByTagName",
+            "querySelector"
+        ],
+        "correctAnswer": "getElementById"
+    },
+    {
+        "question": "What is the purpose of the ‘use strict’ directive in JavaScript?",
+        "options": [
+            "Enforces stricter parsing and error handling",
+            "Adds more security to JavaScript code",
+            "Increases the speed of execution",
+            "Makes JavaScript synchronous"
+        ],
+        "correctAnswer": "Enforces stricter parsing and error handling"
+    },
+    {
+        "question": "What does the flex-grow property do in CSS Flexbox?",
+        "options": [
+            "Defines the default size of the flex item",
+            "Defines the alignment of flex items",
+            "Specifies the amount of space a flex item should take up",
+            "Controls the shrink factor of the flex item"
+        ],
+        "correctAnswer": "Specifies the amount of space a flex item should take up"
+    },
+    {
+        "question": "In HTML5, which element is used to specify the header of a document or section?",
+        "options": [
+            "<header>",
+            "<head>",
+            "<section>",
+            "<meta>"
+        ],
+        "correctAnswer": "<header>"
+    },
+    {
+        "question": "What does AJAX stand for?",
+        "options": [
+            "Asynchronous JavaScript and XML",
+            "Advanced Java and XML",
+            "Asynchronous Java and XHTML",
+            "Adaptive JavaScript and XHTML"
+        ],
+        "correctAnswer": "Asynchronous JavaScript and XML"
+    },
+    {
+        "question": "Which method can be used to convert a JavaScript object to a JSON string?",
+        "options": [
+            "JSON.stringify()",
+            "JSON.parse()",
+            "JSON.convert()",
+            "JSON.objectify()"
+        ],
+        "correctAnswer": "JSON.stringify()"
+    },
+    {
+        "question": "Which of the following is a JavaScript framework?",
+        "options": [
+            "Django",
+            "React",
+            "Laravel",
+            "Flask"
+        ],
+        "correctAnswer": "React"
+    },
+    {
+        "question": "Which CSS property is used to change the background color?",
+        "options": [
+            "bgcolor",
+            "background-color",
+            "color",
+            "background"
+        ],
+        "correctAnswer": "background-color"
+    },
+    {
+        "question": "Which of the following is not a reserved keyword in JavaScript?",
+        "options": [
+            "this",
+            "catch",
+            "function",
+            "undefined"
+        ],
+        "correctAnswer": "undefined"
+    },
+    {
+        "question": "How can you add a single-line comment in JavaScript?",
+        "options": [
+            "/* This is a comment */",
+            "// This is a comment",
+            "<!-- This is a comment -->",
+            "# This is a comment"
+        ],
+        "correctAnswer": "// This is a comment"
+    },
+    {
+        "question": "Which HTML tag is used to define a hyperlink?",
+        "options": [
+            "<a>",
+            "<link>",
+            "<href>",
+            "<anchor>"
+        ],
+        "correctAnswer": "<a>"
+    },
+    {
+        "question": "Which property is used to set the font color of an element in CSS?",
+        "options": [
+            "text-color",
+            "color",
+            "font-color",
+            "text-style"
+        ],
+        "correctAnswer": "color"
+    },
+    {
+        "question": "What is the correct HTML element for inserting a line break?",
+        "options": [
+            "<br>",
+            "<lb>",
+            "<break>",
+            "<line>"
+        ],
+        "correctAnswer": "<br>"
+    },
+    {
+        "question": "Which JavaScript function is used to parse a JSON string to an object?",
+        "options": [
+            "JSON.parse()",
+            "JSON.stringify()",
+            "JSON.toObject()",
+            "JSON.convert()"
+        ],
+        "correctAnswer": "JSON.parse()"
+    },
+    {
+        "question": "Which CSS property is used to change the text color of an element?",
+        "options": [
+            "fgcolor",
+            "text-color",
+            "color",
+            "font-color"
+        ],
+        "correctAnswer": "color"
+    },
+    {
+        "question": "What is the purpose of the 'alt' attribute in HTML?",
+        "options": [
+            "To link to another page",
+            "To provide an alternate text for an image",
+            "To display an image in a different style",
+            "To set the title of an image"
+        ],
+        "correctAnswer": "To provide an alternate text for an image"
+    },
+    {
+        "question": "Which HTML element is used to specify a header for a document or section?",
+        "options": [
+            "<header>",
+            "<head>",
+            "<section>",
+            "<footer>"
+        ],
+        "correctAnswer": "<header>"
+    },
+    {
+        "question": "Which of the following will stop event propagation in JavaScript?",
+        "options": [
+            "stopPropagation()",
+            "preventDefault()",
+            "stopDefault()",
+            "preventPropagation()"
+        ],
+        "correctAnswer": "stopPropagation()"
+    },
+    {
+        "question": "Which CSS property is used to specify the space between letters?",
+        "options": [
+            "line-height",
+            "letter-spacing",
+            "word-spacing",
+            "text-spacing"
+        ],
+        "correctAnswer": "letter-spacing"
+    },
+    {
+        "question": "What is the purpose of the 'defer' attribute in HTML script tags?",
+        "options": [
+            "To execute scripts asynchronously",
+            "To delay script execution until after the page has loaded",
+            "To preload scripts",
+            "To stop script execution"
+        ],
+        "correctAnswer": "To delay script execution until after the page has loaded"
+    },
+    {
+        "question": "Which method is used to select an HTML element by class name?",
+        "options": [
+            "querySelector()",
+            "getElementById()",
+            "getElementsByClassName()",
+            "getElementsByTagName()"
+        ],
+        "correctAnswer": "getElementsByClassName()"
+    },
+    {
+        "question": "Which HTML element is used to embed JavaScript?",
+        "options": [
+            "<script>",
+            "<javascript>",
+            "<js>",
+            "<code>"
+        ],
+        "correctAnswer": "<script>"
+    },
+    {
+        "question": "What is the purpose of media queries in CSS?",
+        "options": [
+            "To style HTML elements",
+            "To apply CSS only if certain conditions are met",
+            "To enable JavaScript in CSS",
+            "To set default styles"
+        ],
+        "correctAnswer": "To apply CSS only if certain conditions are met"
+    },
+    {
+        "question": "Which of the following methods adds an element to the end of an array in JavaScript?",
+        "options": [
+            "pop()",
+            "push()",
+            "shift()",
+            "unshift()"
+        ],
+        "correctAnswer": "push()"
+    },
+    {
+        "question": "Which CSS property is used to control the layout in a flex container?",
+        "options": [
+            "align-items",
+            "display",
+            "flex-direction",
+            "grid-template"
+        ],
+        "correctAnswer": "flex-direction"
+    },
+    {
+        "question": "In HTML, which tag is used to define an unordered list?",
+        "options": [
+            "<ul>",
+            "<ol>",
+            "<li>",
+            "<list>"
+        ],
+        "correctAnswer": "<ul>"
+    },
+    {
+        "question": "How do you declare a variable in JavaScript?",
+        "options": [
+            "variable name = value;",
+            "var name = value;",
+            "declare name = value;",
+            "new name = value;"
+        ],
+        "correctAnswer": "var name = value;"
+    },
+    {
+        "question": "Which of the following is used to add a script to a React component?",
+        "options": [
+            "useScript()",
+            "script tag in JSX",
+            "script attribute",
+            "useEffect()"
+        ],
+        "correctAnswer": "useEffect()"
+    },
+    {
+        "question": "In JavaScript, what will `typeof null` return?",
+        "options": [
+            "null",
+            "undefined",
+            "object",
+            "string"
+        ],
+        "correctAnswer": "object"
+    },
+    {
+        "question": "What is the CSS property to set the space inside an element, between its content and its border?",
+        "options": [
+            "padding",
+            "margin",
+            "border-spacing",
+            "content-spacing"
+        ],
+        "correctAnswer": "padding"
+    },
+    {
+        "question": "Which method is used to add an event listener in JavaScript?",
+        "options": [
+            "attachEvent()",
+            "addEvent()",
+            "addEventListener()",
+            "bindEvent()"
+        ],
+        "correctAnswer": "addEventListener()"
+    },
+    {
+        "question": "What does 'const' mean in JavaScript?",
+        "options": [
+            "A variable that can be reassigned",
+            "A variable that cannot be reassigned",
+            "A function declaration",
+            "A block of code that cannot be executed"
+        ],
+        "correctAnswer": "A variable that cannot be reassigned"
+    },
+    {
+        "question": "Which CSS property is used to align text to the center?",
+        "options": [
+            "vertical-align",
+            "text-align",
+            "align-center",
+            "justify-content"
+        ],
+        "correctAnswer": "text-align"
+    },
+    {
+        "question": "In React, which hook is used to manage the component lifecycle?",
+        "options": [
+            "useState",
+            "useEffect",
+            "useContext",
+            "useMemo"
+        ],
+        "correctAnswer": "useEffect"
+    },
+    {
+        "question": "Which of the following is used to create components in React?",
+        "options": [
+            "function or class",
+            "component()",
+            "componentClass",
+            "useComponent()"
+        ],
+        "correctAnswer": "function or class"
+    },
+    {
+        "question": "Which HTML tag is used to create a text input field?",
+        "options": [
+            "<text>",
+            "<input type='text'>",
+            "<textfield>",
+            "<textarea>"
+        ],
+        "correctAnswer": "<input type='text'>"
+    },
+    {
+        "question": "In CSS, what does 'z-index' do?",
+        "options": [
+            "Controls the position of an element along the X-axis",
+            "Specifies the stacking order of elements",
+            "Sets the transparency of an element",
+            "Defines the element's width"
+        ],
+        "correctAnswer": "Specifies the stacking order of elements"
+    },
+    {
+        "question": "Which attribute is used in HTML to open a link in a new tab?",
+        "options": [
+            "new-tab",
+            "target='_new'",
+            "target='_blank'",
+            "rel='new-tab'"
+        ],
+        "correctAnswer": "target='_blank'"
+    },
+    {
+        "question": "What is the default value of the CSS 'position' property?",
+        "options": [
+            "relative",
+            "fixed",
+            "absolute",
+            "static"
+        ],
+        "correctAnswer": "static"
+    },
+    {
+        "question": "In JavaScript, what is the result of '2' + 2?",
+        "options": [
+            "4",
+            "22",
+            "NaN",
+            "Syntax error"
+        ],
+        "correctAnswer": "22"
+    },
+    {
+        "question": "What will 'console.log(typeof NaN)' output in JavaScript?",
+        "options": [
+            "undefined",
+            "NaN",
+            "number",
+            "string"
+        ],
+        "correctAnswer": "number"
+    },
+    {
+        "question": "Which of the following methods removes the last element from an array in JavaScript?",
+        "options": [
+            "shift()",
+            "pop()",
+            "push()",
+            "delete()"
+        ],
+        "correctAnswer": "pop()"
+    },
+    {
+        "question": "What does CSS stand for?",
+        "options": [
+            "Computer Style Sheets",
+            "Colorful Style Sheets",
+            "Cascading Style Sheets",
+            "Creative Style Sheets"
+        ],
+        "correctAnswer": "Cascading Style Sheets"
+    },
+    {
+        "question": "What will the following CSS code do? 'div { margin: 20px auto; }'",
+        "options": [
+            "Centers the div horizontally",
+            "Centers the div vertically",
+            "Applies a 20px margin to all sides of the div",
+            "Both centers horizontally and adds a 20px margin"
+        ],
+        "correctAnswer": "Centers the div horizontally"
+    },
+    {
+        "question": "In HTML, what is the purpose of the 'action' attribute in a form?",
+        "options": [
+            "Specifies where to send the form data",
+            "Specifies the HTTP method used",
+            "Adds validation to form fields",
+            "Specifies the form's ID"
+        ],
+        "correctAnswer": "Specifies where to send the form data"
+    },
+    {
+        "question": "Which JavaScript operator is used to compare both value and type?",
+        "options": [
+            "==",
+            "===",
+            "=",
+            "!=="
+        ],
+        "correctAnswer": "==="
+    },
+    {
+        "question": "Which of the following is NOT a valid event in JavaScript?",
+        "options": [
+            "click",
+            "mouseover",
+            "onhover",
+            "dblclick"
+        ],
+        "correctAnswer": "onhover"
+    },
+    {
+        "question": "What is the purpose of the React 'key' attribute?",
+        "options": [
+            "To set a unique ID for each element",
+            "To uniquely identify elements in lists for better performance",
+            "To define a default value",
+            "To bind the element to the component"
+        ],
+        "correctAnswer": "To uniquely identify elements in lists for better performance"
+    }
+]
